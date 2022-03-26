@@ -1,8 +1,8 @@
 <h1 align="center">Hey there, I'm Beyza Coskun <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-
-- 🎓 Graduated Computer Engineering.
-- 🌱 I’m currently learning software testing projects.
-- 🎯 Exploring new technologies and developing software solutions.
+<h3 align="left">Computer Engineering Master's Student at Gebze Technical University</h3>
+🎓 Graduated Computer Engineering.
+🌱 I’m currently learning software testing projects.
+🎯 Exploring new technologies and developing software solutions.
 
 ### Languages and Tools:
 
